@@ -506,6 +506,10 @@ textarea {
   #fifth {
     padding: 90px;
   }
+
+  .nn {
+    width: 300px;
+  }
 }
 @media (max-width: 670px) {
   .portfolio {
