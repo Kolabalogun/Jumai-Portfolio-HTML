@@ -93,7 +93,7 @@ h2 {
   font-family: "Dela Gothic One", cursive;
 }
 .nn {
-  width: 320px;
+  max-width: 320px;
 }
 .link-container > ul > li > div {
   display: inline-flex;
