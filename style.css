@@ -88,9 +88,7 @@ h2 {
   transition: 0.1s;
   font-family: "Dela Gothic One", cursive;
 }
-.nn {
-  width: 320px;
-}
+
 .link-container > ul > li > div {
   display: inline-flex;
   gap: 10px;
@@ -505,10 +503,6 @@ textarea {
   #fourth,
   #fifth {
     padding: 90px;
-  }
-
-  .nn {
-    width: 300px;
   }
 }
 @media (max-width: 670px) {
