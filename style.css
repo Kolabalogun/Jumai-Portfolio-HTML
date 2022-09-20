@@ -235,7 +235,7 @@ a {
   font-style: italic;
 }
 .thirdSectionImageWrap {
-  max-width: 600px;
+  width: 600px;
 }
 .thirdSectionImageWrap > img {
   height: 100%;
