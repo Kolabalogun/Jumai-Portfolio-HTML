@@ -8,6 +8,7 @@
 }
 body {
   scroll-behavior: smooth;
+  width: 100%;
 }
 li {
   list-style: none;
@@ -88,7 +89,9 @@ h2 {
   transition: 0.1s;
   font-family: "Dela Gothic One", cursive;
 }
-
+.nn {
+  width: 320px;
+}
 .link-container > ul > li > div {
   display: inline-flex;
   gap: 10px;
