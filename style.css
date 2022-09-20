@@ -358,7 +358,7 @@ textarea {
 
 @media (max-width: 986px) {
   .thirdSectionImageWrap {
-    width: 430px;
+    width: 100%;
   }
 }
 
