@@ -85,7 +85,7 @@ h2 {
   border: 3px solid #fff;
   color: #fff;
   border-radius: 25px;
-  width: 250px;
+  width: 100%;
   transition: 0.1s;
   font-family: "Dela Gothic One", cursive;
 }
@@ -172,7 +172,7 @@ a {
   color: rgba(255, 255, 255, 0.812);
   font-family: "Inter", sans-serif;
   letter-spacing: 0.025rem;
-  /* width: calc(100% + 0.025rem); */
+  width: calc(100% + 0.025rem);
   font-size: 1em;
   line-height: 2.125;
   font-weight: 400;
